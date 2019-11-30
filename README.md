@@ -24,7 +24,7 @@ python3.6.1
 
 - 制作したシフト表は自動でExcelに出力されます。
 
-[![Image from Gyazo](https://i.gyazo.com/302be05ee3a24fe64ddfd421a3284759.gif)](https://gyazo.com/302be05ee3a24fe64ddfd421a3284759)
+<a href="https://gyazo.com/302be05ee3a24fe64ddfd421a3284759"><img src="https://i.gyazo.com/302be05ee3a24fe64ddfd421a3284759.gif" alt="Image from Gyazo" width="200"/></a>
 
 Excelで出力できるようにしたのは、私の以前の職場ではシフトの提出がExcelファイルだった、という背景があります。
 
